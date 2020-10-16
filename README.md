@@ -1,4 +1,4 @@
 # Building Collaborative VR environment with React & GraphQL
 
-Slides: 
+[Slides](https://slides.com/vladimirnovick/vr-collaborative-environment)
 
