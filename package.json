@@ -22,7 +22,7 @@
     "react-apollo": "^2.5.7",
     "react-native": "~0.55.4",
     "subscriptions-transport-ws": "^0.9.16",
-    "three": "^0.87.0"
+    "three": "^0.137.0"
   },
   "devDependencies": {
     "babel-jest": "^19.0.0",
