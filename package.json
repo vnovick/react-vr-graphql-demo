@@ -20,7 +20,7 @@
     "react-360": "~1.1.0",
     "react-360-web": "~1.1.0",
     "react-apollo": "^2.5.7",
-    "react-native": "~0.55.4",
+    "react-native": "~0.70.2",
     "subscriptions-transport-ws": "^0.9.16",
     "three": "^0.87.0"
   },
